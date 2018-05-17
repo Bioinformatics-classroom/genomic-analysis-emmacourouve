@@ -61,3 +61,12 @@ NM_000451.3(SHOX_i001):p.(Glu133Asp)
 
 ### Q17
 * il existe différents transcrits (feature)
+
+### Q19
+* http://wannovar.wglab.org/cgi-bin/web_result_filter_hui.pl?buildver=hg19&page=1&submission=159930&file=0WJyRAhER4S9HGvP/query.output.exome_summary.txt&title=exome_filtering_results
+
+### Q20
+* 10.1038/gim.2015.30 
+
+### Q21
+* 
